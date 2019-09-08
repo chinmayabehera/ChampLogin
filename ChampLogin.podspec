@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'CUS-32993' => 'chinmay.behera@foodpanda.in' }
-  s.source           = { :git => 'https://github.com/CUS-32993/ChampLogin.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/chinmayabehera/ChampLogin.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
