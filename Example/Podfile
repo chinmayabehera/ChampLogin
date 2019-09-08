@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ChampLogin_Tests' do
+  pod 'ChampLogin', :path => '../'
+  
+  
+end
