@@ -1,0 +1,6 @@
+framework module ChampLogin {
+  umbrella header "ChampLogin-umbrella.h"
+
+  export *
+  module * { export * }
+}

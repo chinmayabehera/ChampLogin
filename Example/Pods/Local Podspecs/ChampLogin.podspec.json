@@ -1,0 +1,22 @@
+{
+  "name": "ChampLogin",
+  "version": "0.1.0",
+  "summary": "A short description of ChampLogin.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/CUS-32993/ChampLogin",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "CUS-32993": "chinmay.behera@foodpanda.in"
+  },
+  "source": {
+    "git": "https://github.com/CUS-32993/ChampLogin.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ChampLogin/Classes/**/*"
+}
